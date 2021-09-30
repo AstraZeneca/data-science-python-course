@@ -27,6 +27,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 3 | Data visualisation | Lecture | Monday 18/10/2021 | 4-5pm UK | Materials | SMC
 3 | Data visualisation | Recap | Friday 22/10/2021 | 3-4pm UK | Solutions | SMC
 4 | Key concepts in statistics and machine learning | Lecture | Monday 25/10/2021 | 4-5pm UK | Materials | LS
+... | ... | ... | ... | ... | ... | ...
 
 
 ### References
