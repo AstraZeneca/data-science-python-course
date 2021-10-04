@@ -23,7 +23,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 1 | Basic Python concepts and functions | Lecture | Monday 04/10/2021 | 4-5pm UK | [Materials](notebooks/week1_lecture.ipynb) | SMC
 1 | Basic Python concepts and functions | Recap | Friday 08/10/2021 | 3-4pm UK | Solutions |  SMC
 2 | Data handling | Lecture | Monday 11/10/2021 | 4-5pm UK | Materials | SMC
-2 | Introduction to challenge | Lecture | Monday 11/10/2021 | 4-5pm UK | Materials | SMC
+2 | Course challenge | Challenge | Monday 11/10/2021 | 4-5pm UK | Challenge | SMC
 2 | Data handling | Recap | Friday 15/10/2021 | 3-4pm UK | Solutions | SMC
 3 | Data visualisation | Lecture | Monday 18/10/2021 | 4-5pm UK | Materials | SMC
 3 | Data visualisation | Recap | Friday 22/10/2021 | 3-4pm UK | Solutions | SMC
