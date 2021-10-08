@@ -21,7 +21,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | All
 1 | Troubleshooting software installations | preparation | Monday 04/10/2021 | 3-4pm UK | [Introduction and installations](notebooks/week0_materials.ipynb) | SMC
 1 | Basic Python concepts and functions | Lecture | Monday 04/10/2021 | 4-5pm UK | [Materials](notebooks/week1_lecture.ipynb) | SMC
-1 | Basic Python concepts and functions | Recap | Friday 08/10/2021 | 3-4pm UK | [Solutions](notebooks/week1_lecture.ipynb) |  SMC
+1 | Basic Python concepts and functions | Recap | Friday 08/10/2021 | 3-4pm UK | [Solutions](notebooks/week1_solutions.ipynb) |  SMC
 2 | Data handling | Lecture | Monday 11/10/2021 | 4-5pm UK | Materials | SMC
 2 | Course challenge | Challenge | Monday 11/10/2021 | 4-5pm UK | Challenge | SMC
 2 | Data handling | Recap | Friday 15/10/2021 | 3-4pm UK | Solutions | SMC
