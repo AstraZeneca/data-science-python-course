@@ -24,7 +24,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 1 | Basic Python concepts and functions | Recap | Friday 08/10/2021 | 3-4pm UK | [Solutions](notebooks/week1_solutions.ipynb) |  SMC
 2 | Data handling | Lecture | Monday 11/10/2021 | 4-5pm UK | [Materials](notebooks/week2_lecture.ipynb) and [Challenge](notebooks/week2_challenge.ipynb) | SMC
 2 | Data handling | Recap | Friday 15/10/2021 | 3-4pm UK | [Solutions](notebooks/week2_solutions.ipynb) | SMC
-3 | Data visualisation | Lecture | Monday 18/10/2021 | 4-5pm UK | Materials | SMC
+3 | Data visualisation | Lecture | Monday 18/10/2021 | 4-5pm UK | [Materials](notebooks/week3_lecture.ipynb) | SMC
 3 | Data visualisation | Recap | Friday 22/10/2021 | 3-4pm UK | Solutions | SMC
 4 | Key concepts in statistics and machine learning | Lecture | Monday 25/10/2021 | 4-5pm UK | Materials | LS
 5 | Data analysis and modelling | Lecture | Tuesday 02/11/2021 | 4-5pm UK | Materials | LS
