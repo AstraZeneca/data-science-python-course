@@ -28,9 +28,9 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 3 | Data visualisation | Recap | Wednesday 20/10/2021 | 2:45-3:30pm UK | [Solutions](notebooks/week3_solutions.ipynb) | SMC
 4 | Key concepts in statistics and machine learning | Lecture | Monday 25/10/2021 | 4-5pm UK | [Materials](notebooks/week4_lecture.ipynb) | LS
 5 | Data analysis and modelling | Lecture | Tuesday 02/11/2021 | 4-5pm UK | [Materials](notebooks/week5_lecture.ipynb) | LS
-5 | Data analysis and modelling | Recap | Friday 05/11/2021 | 3-4pm UK | Solutions | LS
+5 | Data analysis and modelling | Recap | Tuesday 09/11/2021 | 3-4pm UK | Solutions | LS
 6 | Introduction to Machine Learning - part 1 | Lecture | Monday 08/11/2021 | 4-5pm UK | [Materials](notebooks/week6_lecture.ipynb) | MO
-6 | Introduction to Machine Learning - part 1 | Recap | Friday 12/11/2021 | 3-4pm UK | Solutions | MO
+6 | Introduction to Machine Learning - part 1 | Recap | Wednesday 12/11/2021 | 3-4pm UK | Solutions | MO
 7 | Introduction to Machine Learning - part 2 | Lecture | Monday 15/11/2021 | 4-5pm UK | Materials | MO
 7 | Introduction to Machine Learning - part 2 | Recap | Friday 19/11/2021 | 3-4pm UK | Solutions | MO
 8 | Course challenge review and awards | Recap | Monday 29/11/2021 | 4-5pm UK | - | All
