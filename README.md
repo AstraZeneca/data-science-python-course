@@ -31,7 +31,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 5 | Data analysis and modelling | Recap | Tuesday 09/11/2021 | 3-4pm UK | Solutions | LS
 6 | Introduction to Machine Learning - part 1 | Lecture | Monday 08/11/2021 | 4-5pm UK | [Materials](notebooks/week6_lecture.ipynb) | MO
 6 | Introduction to Machine Learning - part 1 | Recap | Wednesday 12/11/2021 | 3-4pm UK | [Solutions](notebooks/week6_solutions.ipynb) | MO
-7 | Introduction to Machine Learning - part 2 | Lecture | Monday 15/11/2021 | 4-5pm UK | Materials | MO
+7 | Introduction to Machine Learning - part 2 | Lecture | Monday 15/11/2021 | 4-5pm UK | [Materials](notebooks/week7_lecture.ipynb) | MO
 7 | Introduction to Machine Learning - part 2 | Recap | Friday 19/11/2021 | 3-4pm UK | Solutions | MO
 8 | Course challenge review and awards | Recap | Monday 29/11/2021 | 4-5pm UK | - | All
 
