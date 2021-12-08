@@ -33,7 +33,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 6 | Introduction to Machine Learning - part 1 | Recap | Wednesday 12/11/2021 | 3-4pm UK | [Solutions](notebooks/week6_solutions.ipynb) | MO
 7 | Introduction to Machine Learning - part 2 | Lecture | Monday 15/11/2021 | 4-5pm UK | [Materials](notebooks/week7_lecture.ipynb) | MO
 7 | Introduction to Machine Learning - part 2 | Recap | Friday 19/11/2021 | 3-4pm UK | [Solutions](notebooks/week7_solutions.ipynb) | MO
-8 | Course challenge review and awards | Recap | Monday 29/11/2021 | 4-5pm UK | - | All
+8 | Course challenge review and awards | Recap | Monday 29/11/2021 | 4-5pm UK | [Katarzyna Nurzynska](challenge/KatarzynaNurzynska/) & [Robert Shaw](challenge/RobertShaw/) | All
 
 
 ### References
