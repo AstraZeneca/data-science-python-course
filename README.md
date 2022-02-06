@@ -42,7 +42,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
   - [June-July 2020 course](https://github.com/semacu/data-science-python)
   - [January-February 2021 course](https://github.com/semacu/202101-data-science-python)
   - [May-June 2021 course](https://github.com/semacu/202105-data-science-python)
-  - [February-April 2022 course](https://github.com/AstraZeneca/data-science-python-course)
+  - [October-November 2021 course](https://github.com/semacu/202110-data-science-python)
 - The University of Cambridge [Introduction to Python course](https://github.com/pycam/python-basic)
 - The University of Cambridge [Data Science in Python course](https://github.com/pycam/python-data-science)
 - Data Carpentry [Python lessons](https://datacarpentry.org)
