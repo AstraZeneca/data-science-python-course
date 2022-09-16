@@ -19,8 +19,8 @@ Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Katarzyna Nurzynska, 
 Week | Title | Activity | Materials | Trainer
 :---:|:-----:|:--------:|:---------:|:-------:
 0 | Troubleshooting software installations | preparation | [Introduction and installations](notebooks/week0_materials.ipynb) | all
-0 | Basic Python concepts and functions | Lecture | [Materials](notebooks/week0_lecture.ipynb) | all
-0 | Basic Python concepts and functions | Recap | [Solutions](notebooks/week0_solutions.ipynb) | all
+0 | Basic Python concepts and functions | preparation | [Materials](notebooks/week0_lecture.ipynb) | all
+0 | Basic Python concepts and functions | preparation | [Solutions](notebooks/week0_solutions.ipynb) | all
 1 | Data handling | Lecture | [Materials](notebooks/week1_lecture.ipynb) | SMC
 1 | Data handling | Recap | Solutions | SMC
 2 | Data visualisation | Lecture | Materials | SMC
