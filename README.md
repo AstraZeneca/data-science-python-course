@@ -22,8 +22,8 @@ Week | Title | Activity | Materials | Trainer
 0 | Basic Python concepts and functions | preparation | [Materials](notebooks/week0_lecture.ipynb) | all
 0 | Basic Python concepts and functions | preparation | [Solutions](notebooks/week0_solutions.ipynb) | all
 1 | Data handling | Lecture | [Materials](notebooks/week1_lecture.ipynb) | SMC
-1 | Data handling | Recap | Solutions | SMC
-2 | Data visualisation | Lecture | Materials | SMC
+1 | Data handling | Recap | [Solutions](notebooks/week1_solutions.ipynb) | SMC
+2 | Data visualisation | Lecture | [Materials](notebooks/week2_lecture.ipynb) | SMC
 2 | Data visualisation | Recap | Solutions | SMC
 3 | Key concepts in statistics and machine learning | Lecture | Materials | LS
 4 | Data analysis and modelling | Lecture | Materials | LS
