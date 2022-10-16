@@ -24,11 +24,11 @@ Week | Title | Activity | Materials | Trainer
 1 | Data handling | Lecture | [Materials](notebooks/week1_lecture.ipynb) | SMC
 1 | Data handling | Recap | [Solutions](notebooks/week1_solutions.ipynb) | SMC
 2 | Data visualisation | Lecture | [Materials](notebooks/week2_lecture.ipynb) | SMC
-2 | Data visualisation | Recap | Solutions | SMC
-3 | Key concepts in statistics and machine learning | Lecture | Materials | LS
-4 | Data analysis and modelling | Lecture | Materials | LS
-4 | Data analysis and modelling | Recap | Solutions | LS
-5 | Introduction to Machine Learning - part 1 | Lecture | Materials | MO
+2 | Data visualisation | Recap | [Solutions](notebooks/week2_solutions.ipynb) | SMC
+3 | Key concepts in statistics and machine learning | Lecture | [Materials](notebooks/week3_lecture.ipynb) | LS
+4 | Data analysis and modelling | Lecture | [Materials](notebooks/week4_lecture.ipynb) | LS
+4 | Data analysis and modelling | Recap | [Solutions](notebooks/week4_solutions.ipynb) | LS
+5 | Introduction to Machine Learning - part 1 | Lecture | [Materials](notebooks/week5_lecture.ipynb) | MO
 5 | Introduction to Machine Learning - part 1 | Recap | Solutions | MO
 6 | Introduction to Machine Learning - part 2 | Lecture | Materials | MO
 6 | Introduction to Machine Learning - part 2 | Recap | Solutions | MO
