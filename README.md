@@ -28,8 +28,8 @@ Week | Title | Activity | Materials | Trainer
 3 | Key concepts in statistics and machine learning | Lecture | [Materials](notebooks/week3_lecture.ipynb) | LS
 4 | Data analysis and modelling | Lecture | [Materials](notebooks/week4_lecture.ipynb) | LS
 4 | Data analysis and modelling | Recap | [Solutions](notebooks/week4_solutions.ipynb) | LS
-5 | Introduction to Machine Learning - part 1 | Lecture | [Materials](notebooks/week5_lecture.ipynb) | MO
-5 | Introduction to Machine Learning - part 1 | Recap | Solutions | MO
+5 | Introduction to Machine Learning - part 1 | Lecture | [Materials](notebooks/week5_lecture_2.ipynb) | MO
+5 | Introduction to Machine Learning - part 1 | Recap | [Solutions](notebooks/week5_solutions_2.ipynb) | MO
 6 | Introduction to Machine Learning - part 2 | Lecture | Materials | MO
 6 | Introduction to Machine Learning - part 2 | Recap | Solutions | MO
 7 | Networks and Knowledge Graphs | Lecture | Materials | KN
