@@ -33,7 +33,6 @@ Week | Title | Activity | Materials | Trainer
 6 | Introduction to Machine Learning - part 2 | Lecture | Materials | MO
 6 | Introduction to Machine Learning - part 2 | Recap | Solutions | MO
 7 | Networks and Knowledge Graphs | Lecture | Materials | KN
-7 | Networks and Knowledge Graphs | Recap | Solutions | KN
 
 
 
