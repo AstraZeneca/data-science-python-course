@@ -32,7 +32,7 @@ Week | Title | Activity | Materials | Trainer
 5 | Introduction to Machine Learning - part 1 | Recap | [Solutions](notebooks/week5_solutions_2.ipynb) | MO
 6 | Introduction to Machine Learning - part 2 | Lecture | Materials | MO
 6 | Introduction to Machine Learning - part 2 | Recap | Solutions | MO
-7 | Networks and Knowledge Graphs | Lecture | Materials | KN
+7 | Networks and Knowledge Graphs | Lecture | [Materials](notebooks/week7_lecture.ipynb) | KN
 
 
 
