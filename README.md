@@ -21,10 +21,10 @@ Week | Title | Activity | Materials | Trainer
 0 | Troubleshooting software installations | preparation | [Introduction and installations](notebooks/week0_materials.ipynb) | all
 0 | Basic Python concepts and functions | preparation | [Materials](notebooks/week0_lecture.ipynb) | all
 0 | Basic Python concepts and functions | preparation | [Solutions](notebooks/week0_solutions.ipynb) | all
-1 | Data handling | Lecture | [Materials](notebooks/week1_lecture.ipynb) | SMC
-1 | Data handling | Recap | [Solutions](notebooks/week1_solutions.ipynb) | SMC
-2 | Data visualisation | Lecture | [Materials](notebooks/week2_lecture.ipynb) | SMC
-2 | Data visualisation | Recap | [Solutions](notebooks/week2_solutions.ipynb) | SMC
+1 | Data handling | Lecture | [Materials](notebooks/week1_lecture.ipynb) | JB
+1 | Data handling | Recap | [Solutions](notebooks/week1_solutions.ipynb) | JB
+2 | Data visualisation | Lecture | [Materials](notebooks/week2_lecture.ipynb) | JB
+2 | Data visualisation | Recap | [Solutions](notebooks/week2_solutions.ipynb) | JB
 3 | Key concepts in statistics and machine learning | Lecture | [Materials](notebooks/week3_lecture.ipynb) | LS
 4 | Data analysis and modelling | Lecture | [Materials](notebooks/week4_lecture.ipynb) | LS
 4 | Data analysis and modelling | Recap | [Solutions](notebooks/week4_solutions.ipynb) | LS
